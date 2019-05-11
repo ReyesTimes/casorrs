@@ -7,7 +7,7 @@ const Servicios = () => (
         <article>
             <section>
                 <Link href="/">
-                    <a>Regresar</a>
+                    <a>Regresar a Inicio</a>
                 </Link>
                 <h1 className="mt-3">
                     Servicios SSR Despacho

@@ -9838,7 +9838,7 @@ var Index = function Index() {
       lineNumber: 52
     },
     __self: this
-  }, "Existen diferentes necesidades que pueden solventar el despacho, aunque la mayor\xEDa se centran en resolver problematicas de legales ante diferentes autoridades.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "Existen diferentes necesidades que pueden solventar el despacho, aunque la mayor\xEDa se centran en resolver problematicas legales ante diferentes autoridades.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 54
@@ -9873,37 +9873,100 @@ var Index = function Index() {
       lineNumber: 57
     },
     __self: this
-  }, "El Se\xF1or Jos\xE9 es un cliente que fue recomendado por un conocido de la especialidad, tuv\xF3 un problema con el IMSS por cuotas patronales, ya que eran cuotas patronales especiales por el tipo de ramo al que se dedica el Se\xF1or Jos\xE9 (pintura)."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "El Se\xF1or Jos\xE9 es un cliente que fue recomendado por un conocido de la especialidad, tuv\xF3 un ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57
+    },
+    __self: this
+  }, "problema con el IMSS por cuotas patronales"), ", ya que eran cuotas patronales especiales por el tipo de ramo al que se dedica el Se\xF1or Jos\xE9 (pintura)."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 58
     },
     __self: this
-  }, "El Se\xF1or Jos\xE9 ya hab\xEDa contrado los servicios de un abogado, lamentablemente dicho abogado le quedo mal, lo que hiz\xF3 que desconfiara mucho en un inicio del caso."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "El Se\xF1or Jos\xE9 ya hab\xEDa contrado los servicios de un abogado, lamentablemente dicho abogado le quedo mal, lo que hiz\xF3 que ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 58
+    },
+    __self: this
+  }, "desconfiara"), " mucho en un inicio del caso."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 59
     },
     __self: this
-  }, "Se hiz\xF3 una investigaci\xF3n del problema que ten\xEDa el Se\xF1or Jos\xE9 y se encontr\xF3 que hab\xEDa posibilidades de ganar el caso caso, ya que el IMSS por el tiempo que paso ya no estab\xE1 en tiempo para requerir esas facultades, se le informo de ello y llegar\xF3n a un acuerdo."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Se hiz\xF3 una investigaci\xF3n del problema que ten\xEDa el Se\xF1or Jos\xE9 y se encontr\xF3 que hab\xEDa posibilidades de ganar el caso caso, ya que el IMSS por el tiempo que paso ya no estab\xE1 en tiempo para requerir esas facultades, se le ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 59
+    },
+    __self: this
+  }, "informo de ello y llegar\xF3n a un acuerdo.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 60
     },
     __self: this
-  }, "La comunicaci\xF3n fue primordial para la mejora en la relaci\xF3n con el Se\xF1or Jos\xE9, la cual para el fue muy importante, se le tomab\xE1 en cuenta en toma de decisiones importantes del caso."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "La ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60
+    },
+    __self: this
+  }, "comunicaci\xF3n"), " fue primordial para la ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 60
+    },
+    __self: this
+  }, "mejora en la relaci\xF3n"), " con el Se\xF1or Jos\xE9, la cual para el fue muy importante, se le tomab\xE1 en cuenta en toma de decisiones importantes del caso."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 61
     },
     __self: this
-  }, "Hub\xF3 un problema en el caso del Se\xF1or Jos\xE9, dicho problema se sucito al momento de ganar el caso, aunque el Se\xF1or Jos\xE9 ya hab\xEDa ganado no quer\xEDa pagar hasta que se le regresar\xE1 el dinero retenido que ten\xEDa en sus cuentas bancar\xEDas, dicho problema se ha sucitado en otros casos, en donde el cliente al tener malas experiencias tanto con otro abogados como con las dependecias tiene miedo que el problema no haya terminado."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Hub\xF3 un problema en el caso del Se\xF1or Jos\xE9, dicho problema se sucito al momento de ganar el caso, aunque el Se\xF1or Jos\xE9 ya hab\xEDa ganad\xF3 pero no quer\xEDa pagar hasta que se le regresar\xE1 el dinero retenido que ten\xEDa en sus cuentas bancar\xEDas, ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, "dicho problema se ha sucitado en otros casos"), ", en donde el cliente al tener ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, "malas experiencias"), " tanto con otro abogados como con las dependecias ten\xEDa ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 61
+    },
+    __self: this
+  }, "miedo"), " que el problema no haya terminado."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 62
     },
     __self: this
-  }, "Aunque existi\xF3 dicho problema con el Se\xF1or Jos\xE9 al final estuv\xF3 feliz con el resultado al grado que el despacho se encargara de otros servicios para el Se\xF1or Jose. "))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "Aunque existi\xF3 dicho problema con el Se\xF1or Jos\xE9 al final ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
+    className: "underline",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 62
+    },
+    __self: this
+  }, "estuv\xF3"), " feliz con el resultado al grado que el despacho se encargara de otros servicios para el Se\xF1or Jose. "))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 65
